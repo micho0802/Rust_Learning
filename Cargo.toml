@@ -1,0 +1,11 @@
+[package]
+name = "Fahrenheit_to_Celsius"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "Fahrenheit_to_Celsius"
+path = "src/Fahrenheit_to_Celsius.rs"
+

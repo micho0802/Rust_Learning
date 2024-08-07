@@ -1,0 +1,1 @@
+C:\Users\hoang\OneDrive\Desktop\Rust_Learning\Fahrenheit_to_Celsius\target\debug\Fahrenheit_to_Celsius.exe: C:\Users\hoang\OneDrive\Desktop\Rust_Learning\Fahrenheit_to_Celsius\src\Fahrenheit_to_Celsius.rs
